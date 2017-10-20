@@ -72,8 +72,6 @@ int main()
     */
     configuration config;
     int flag = 1;
-    int rrCheck = 0;
-    int time2;
     int i;
     while(flag != 0){
         flag = ini_parse("config.ini", handler, &config);
@@ -96,10 +94,8 @@ int main()
         printf("\n[Applied white background]");
     }
 
-    printf("\n");
-
     for(i = 0; i < (((int)config.Time2)/60000); i++){
-        printf("[Waiting %2dm...]\r", ((int)config.Time2/60000) - i);
+        printf("\n\n[Waiting %2dm...]\r", ((int)config.Time2/60000) - i);
         Sleep(60000);
     }
     system(config.RR2);
