@@ -24,4 +24,8 @@ Keep in mind this software won't work out of the box: follow the how-to instruct
 - Done!
 
 ## License
-This software (UnlimitedOverclockWorks) is released under The Unlicense, which means you can freely use it however you wish, however it does use [inih](https://github.com/benhoyt/inih), which is released under a [different license](https://github.com/Wyse-/UnlimitedOverclockWorks/blob/master/LICENSE_inih). Same goes for the third party software I mentioned above (AnyDVD HD, Deliner).
+This software (UnlimitedOverclockWorks) is released under The Unlicense, which means you can freely use it however you wish, however it does use the open source library [inih](https://github.com/benhoyt/inih), which is released under a [different license](https://github.com/Wyse-/UnlimitedOverclockWorks/blob/master/LICENSE_inih).
+
+AnyDVD HD is NOT open source software and the needed executable cannot be freely redistributed. Its license is available [here](https://www.redfox.bz/en/terms.html).
+
+Deliner is NOT open source software, no license is listed on its forum thread though.
