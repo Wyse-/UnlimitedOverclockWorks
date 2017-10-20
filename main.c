@@ -83,6 +83,7 @@ int main()
     UOW Main code
     */
     printf("\n");
+
     for(i = 0; i < (((int)config.Time1)/1000); i++){
         printf("[Waiting %2ds...]\r", ((int)config.Time1/1000) - i);
         Sleep(1000);
@@ -92,8 +93,10 @@ int main()
 
     if((int)config.WhiteBackground == 1){
         system(config.WhiteBackgroundPath);
-        printf("\n[Applied white background]\n");
+        printf("\n[Applied white background]");
     }
+
+    printf("\n");
 
     for(i = 0; i < (((int)config.Time2)/60000); i++){
         printf("[Waiting %2dm...]\r", ((int)config.Time2/60000) - i);
@@ -109,6 +112,8 @@ int main()
     }
 
     printf("\n[Exiting program]");
+
+    Sleep(3000);
 
     return 0;
 }
