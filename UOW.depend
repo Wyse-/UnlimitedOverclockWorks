@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1495629313 source:c:\users\wyse\documents\pr1\refreshratescript\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"ini.h"
+
+1483030870 source:c:\users\wyse\documents\pr1\refreshratescript\ini.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+	<stdlib.h>
+
+1483030870 c:\users\wyse\documents\pr1\refreshratescript\ini.h
+	<stdio.h>
+
