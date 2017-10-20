@@ -99,7 +99,7 @@ int main()
         Sleep(60000);
     }
     system(config.RR2);
-    printf("\n[Applied %dHz]\n", (int)config.RR2Num);
+    printf("\n\n[Applied %dHz]\n", (int)config.RR2Num);
 
 
     if((int)config.Deliner == 1){
