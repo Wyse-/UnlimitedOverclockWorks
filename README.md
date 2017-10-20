@@ -22,3 +22,6 @@ Keep in mind this software won't work out of the box: follow the how-to instruct
 - Configure the config.ini file accordingly, the comments on the right should help you figure out the different options. Remember that depending on your HDD/SSD speed and number of boot up programs you will probably want to tweak the Time1 field.
 - Add UOW.exe to autostart.
 - Done!
+
+## License
+This software (UnlimitedOverclockWorks) is released under The Unlicense, which means you can freely use it however you wish, however it does use [inih](https://github.com/benhoyt/inih), which is released under a [different license](https://github.com/Wyse-/UnlimitedOverclockWorks/blob/master/LICENSE_inih). Same goes for the third party software I mentioned above (AnyDVD HD, Deliner).
