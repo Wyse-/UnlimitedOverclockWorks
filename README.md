@@ -5,6 +5,8 @@
 ![alt tag](https://b.doko.moe/vzzzij.png)
 
 ## Description
+Written and compiled using Code::Blocks 16.01 and GCC.
+
 This is a software made for overclockable 1440p Korean monitors (Qnix QX2710, X-Star DP2710, Yamakasi Catleap 2b). A known issue for these monitors is the "cold start" one, which occurs when the monitor is overclocked to high refresh rates and the computer its plugged into just booted after being off for a while: a good portion of the monitor displays a dense blackish tint, which will make it completely unusable; one way of fixing this is just waiting: the tint will progressively get smaller, and after a while it will completely disappear. Another way to fix this is to change the refresh rate of the monitor to a lower one.
 Apparently this is caused by the temperature of the T-Con board, which needs to heat up to loosen its bandwidth (more bandwidth is needed to display the same resolution at higher refresh rates).
 
