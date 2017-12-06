@@ -16,7 +16,7 @@ Keep in mind this software won't work out of the box: follow the how-to instruct
 
 ## How-to
 - Head over to the [releases section](https://github.com/Wyse-/UnlimitedOverclockWorks/releases) to download the main software.
-- You will need a copy of "SetDisplayFrequency.exe" executable. This is a proprietary executable included in the [AnyDVD HD demo](https://www.redfox.bz/download.html). Obtaining it is free and you can uninstall the software after copying the executable (which is located in the install folder of the software), however I'm not allowed to redistribute the file itself.
+- You will need a copy of the "SetDisplayFrequency.exe" executable. This is a proprietary executable included in the [AnyDVD HD demo](https://www.redfox.bz/download.html). Obtaining it is free and you can uninstall the software after copying the executable (which is located in the install folder of the software), however I'm not allowed to redistribute the file itself.
 - [Optional] If you intend to use the Deliner auto-start feature you will need to [download deliner](https://www.monitortests.com/forum/Thread-Deliner).
 - Extract everything in the same folder (if you don't want to mess with the config.ini file too much the default directory is C:\UOW).
 - Configure the config.ini file accordingly, the comments on the right should help you figure out the different options. Remember that depending on your HDD/SSD speed and number of boot up programs you will probably want to tweak the Time1 field.
