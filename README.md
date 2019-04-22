@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![alt tag](https://b.doko.moe/vzzzij.png)
+![screenshot](https://user-images.githubusercontent.com/5454041/56529114-84b8bf80-6550-11e9-8744-10e7be0514a5.png)
 
 ## Description
 Written and compiled using Code::Blocks 16.01 and GCC.
